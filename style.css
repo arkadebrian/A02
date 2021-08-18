@@ -189,11 +189,12 @@ footer h3{
   margin-bottom: 20px;
 }
 
-footer li{
+footer a{
   float: left;
   width: 20%;
   padding-bottom: 20px;
   list-style-type: none;
+  color: black;
 }
 
 .member {
