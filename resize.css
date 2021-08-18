@@ -1,0 +1,65 @@
+@media (max-width: 1000px) {
+    .cover-jaksel{
+        background-image: url('jaksel-cover.jpeg');
+        min-height: 700px;
+      }
+      
+      
+      .cover-jakpus{
+        background-image: url('jakpus-cover.jpg');
+        min-height: 700px;
+      }
+      
+      .cover-jaktim{
+        background-image: url('jaktim-cover.jpg');
+        min-height: 700px;
+      }
+      
+      .cover-jakbar{
+        background-image: url('jakbar-cover.jpg');
+        min-height: 700px;
+      }
+      
+      .cover-jakut{
+        background-image: url('jakut-cover.jpg');
+        min-height: 700px;
+      }
+
+      .section h2{
+          font-size: 30px;
+          margin: 20px;
+      }
+      .deskripsi p{
+          font-size: 15px;
+      }
+
+      footer{
+        height: 100px;
+        line-height: normal;
+        padding-top: 40px;
+        margin-bottom: 0px;
+        position: relative;
+      }
+  }
+
+@media (max-width: 670px) {
+
+.member {
+  padding: 8px 18px;
+  display: block;
+}
+
+footer {
+  min-height: 25vh;
+}
+
+.cover-caption{
+  font-size: 20px;
+}
+
+.map-header{
+  visibility: hidden;
+}
+
+
+}
