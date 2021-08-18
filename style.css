@@ -190,8 +190,7 @@ footer h3{
 }
 
 footer a{
-  float: left;
-  width: 20%;
+  float: center;
   padding-bottom: 20px;
   list-style-type: none;
   color: black;
